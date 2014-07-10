@@ -1,0 +1,6 @@
+
+Requirements: mdbus2
+
+gmb-ctrl.sh pause - Toggle pause/play
+gmb-ctrl.sh next - Next song
+gmb-ctrl.sh prev - Previous song
